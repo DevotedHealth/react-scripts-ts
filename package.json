@@ -1,6 +1,6 @@
 {
   "name": "@jpavon/react-scripts-ts",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "description": "Fork of react-scripts-ts with added features.",
   "repository": "jpavon/react-scripts-ts",
   "license": "MIT",
@@ -72,7 +72,7 @@
     "sw-precache-webpack-plugin": "^0.11.5",
     "terser-webpack-plugin": "^1.2.3",
     "thread-loader": "^2.1.2",
-    "ts-jest": "^24.0.0",
+    "ts-jest": "^26.4.4",
     "ts-loader": "^5.3.3",
     "tsconfig-paths-webpack-plugin": "^3.2.0",
     "tslint": "^5.14.0",
